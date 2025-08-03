@@ -3,16 +3,11 @@ https://www.pixelskiesastro.com/Location
 
 Vicino Castilléjar
 
-![[Pasted image 20250803110950.png]]
-
-
+![Confronto SQM](../Resources/castillejar.png)
 
 Tirivolo
-
-
-![[Pasted image 20250803111122.png]]
+![Confronto SQM](../Resources/tirivolo.png)
 
 
 Davoli (Pietra di San Antonino)
-
-![[Pasted image 20250803111302.png]]
+![Confronto SQM](../Resources/davoli.png)

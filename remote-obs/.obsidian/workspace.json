@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Early Analysis/Models.md",
+                "file": "Early Analysis/SQM Comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models"
+              "title": "SQM Comparison"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Early Analysis/Models.md",
+                "file": "Early Analysis/SQM Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Models"
+              "title": "Backlinks for SQM Comparison"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Early Analysis/Models.md",
+                "file": "Early Analysis/SQM Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Models"
+              "title": "Outgoing links from SQM Comparison"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Early Analysis/Models.md",
+                "file": "Early Analysis/SQM Comparison.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Models"
+              "title": "Outline of SQM Comparison"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "4aab26605950244e",
   "lastOpenFiles": [
+    "Resources/tirivolo.png",
+    "Resources/davoli.png",
     "Early Analysis/SQM Comparison.md",
+    "Resources/castillejar.png",
     "Early Analysis/Models.md",
-    "Resources/Pasted image 20250803111302.png",
     "Resources",
-    "Resources/Pasted image 20250803111122.png",
-    "Resources/Pasted image 20250803110950.png",
     "Early Analysis",
     "Welcome.md"
   ]
